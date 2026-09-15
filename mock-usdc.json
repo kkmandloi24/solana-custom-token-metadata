@@ -1,6 +1,6 @@
 {
   "name": "Mock USD Coin",
   "symbol": "mUSDC",
-  "description": "Mock USD Coin created for a Solana P2P escrow demonstration.",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/solana-token-metadata/main/mock-usdc.png"
+  "description": "Mock USDC Token for Solana Devnet Escrow Testing",
+  "image": "https://raw.githubusercontent.com/kkmandloi24/solana-custom-token-metadata/main/musdc.png"
 }

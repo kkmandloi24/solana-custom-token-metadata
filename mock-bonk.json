@@ -1,6 +1,6 @@
 {
   "name": "Mock Bonk",
-  "symbol": "mBonk",
-  "description": "Mock Bonk created for a Solana P2P escrow demonstration.",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/solana-token-metadata/main/mock-token.png"
+  "symbol": "mBONK",
+  "description": "Mock BONK Token for Solana Devnet Escrow Testing",
+  "image": "https://raw.githubusercontent.com/kkmandloi24/solana-custom-token-metadata/main/Coin-Bonk.png"
 }
